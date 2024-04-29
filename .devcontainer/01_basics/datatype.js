@@ -2,3 +2,4 @@
 let name = "suhail";
 let age = 25;
 let isLoggedin = false;
+console.log(typeof age);
